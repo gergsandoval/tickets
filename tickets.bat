@@ -1,0 +1,2 @@
+python tickets.py
+pause
